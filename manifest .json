@@ -1,0 +1,39 @@
+{
+  "id": "/index.html",
+  "start_url": "https://medianet.wuaze.com/?i=1",
+  "dir": "auto",
+  "scope": "https://medianet.wuaze.com/?i=1",
+  "orientation": "any",
+  "display": "fullscreen",
+  "display_override": [
+    "fullscreen",
+    "standalone",
+    "browser",
+    "minimal-ui",
+    "window-controls-overlay"
+  ],
+  "icons": [
+    {
+      "src": "/images/icons-vector.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    },
+    {
+      "src": "icons-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+  "prefer_related_applications": true,
+  "categories": [
+    "entertainment",
+    "lifestyle",
+    "personalization",
+    "productivity",
+    "social"
+  ],
+  "name": "clip",
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "short_name": "short",
+  "description": "Submit short videos"
+}
